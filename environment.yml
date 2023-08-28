@@ -1,0 +1,14 @@
+name: xal4food
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python>=3.9
+  - scikit-learn>=1.0
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn-extra
+  - nltk
